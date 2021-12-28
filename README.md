@@ -48,3 +48,5 @@ npm run start:dev
 ```
 
 That's it! You can code!
+
+Modif to merge conflict
